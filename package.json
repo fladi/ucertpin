@@ -1,0 +1,9 @@
+{
+    "urls": [
+      ["ucertpin.py", "github:mkomon/ucertpin/lib/ucertpin.py"]
+    ],
+    "deps": [
+      ["github:mkomon/uasn1"]
+    ],
+    "version": "0.1"
+}
