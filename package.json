@@ -3,7 +3,7 @@
       ["ucertpin.py", "github:mkomon/ucertpin/lib/ucertpin.py"]
     ],
     "deps": [
-      ["github:mkomon/uasn1"]
+      ["github:mkomon/uasn1", "master"]
     ],
     "version": "0.1"
 }
